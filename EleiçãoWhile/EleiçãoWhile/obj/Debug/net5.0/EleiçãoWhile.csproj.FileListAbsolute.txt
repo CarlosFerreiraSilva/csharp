@@ -1,0 +1,16 @@
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\EleiçãoWhile.exe
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\EleiçãoWhile.deps.json
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\EleiçãoWhile.runtimeconfig.json
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\EleiçãoWhile.runtimeconfig.dev.json
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\EleiçãoWhile.dll
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\ref\EleiçãoWhile.dll
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net5.0\EleiçãoWhile.pdb
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.csproj.AssemblyReference.cache
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.AssemblyInfo.cs
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.dll
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\ref\EleiçãoWhile.dll
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.pdb
+C:\Users\android\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net5.0\EleiçãoWhile.genruntimeconfig.cache
