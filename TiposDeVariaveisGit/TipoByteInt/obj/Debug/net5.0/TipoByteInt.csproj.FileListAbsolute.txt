@@ -1,0 +1,16 @@
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\TipoByteInt.exe
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\TipoByteInt.deps.json
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\TipoByteInt.runtimeconfig.json
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\TipoByteInt.runtimeconfig.dev.json
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\TipoByteInt.dll
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\ref\TipoByteInt.dll
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\bin\Debug\net5.0\TipoByteInt.pdb
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.csproj.AssemblyReference.cache
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.AssemblyInfo.cs
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.dll
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\ref\TipoByteInt.dll
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.pdb
+C:\Users\android\Documents\GitHubSenai\csharp\TiposDeVariaveisGit\TipoByteInt\obj\Debug\net5.0\TipoByteInt.genruntimeconfig.cache
